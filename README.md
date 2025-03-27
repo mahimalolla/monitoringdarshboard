@@ -14,7 +14,7 @@ A full-stack web application that displays **real-time system performance metric
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Frontend            | Backend         | Real-time | Charting     |
 |---------------------|------------------|-----------|--------------|
